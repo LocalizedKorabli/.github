@@ -10,6 +10,8 @@ It is dedicated to providing free, accurate, and easy-to-read translations.
 
 ## 项目传送门(Portal)
 
+### 战舰世界本地化
+
 澪刻正面向多个语言、服务器类型制作本地化，您可以通过点击以下表格中的链接快速访问相应的项目仓库。
 
 LocalizedKorabli is making localizations for multiple languages and server types.
@@ -20,3 +22,10 @@ You can easily access the corresponding project repositories by clicking on the 
 |:----------------------:|:-------------------:|:-------------------------:|
 | 简体中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
 | English | [Repository](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [Repository](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
+
+### Lesta Game Center（游戏启动器）本地化
+
+| Language | Repository |
+|:----------------------:|:-------------------:|
+| 简体中文 | [点击进入](https://github.com/LocalizedKorabli/LestaGameCenterL10n) |
+| English | WIP |
