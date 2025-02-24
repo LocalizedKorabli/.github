@@ -25,7 +25,9 @@ You can easily access the corresponding project repositories by clicking on the 
 
 ### Lesta Game Center（游戏启动器）本地化
 
-| Language | Repository |
-|:----------------------:|:-------------------:|
-| 简体中文 | [点击进入](https://github.com/LocalizedKorabli/LestaGameCenterL10n) |
-| English | WIP |
+[进入仓库](https://github.com/LocalizedKorabli/LestaGameCenterL10n)
+
+已支持语言（Supported Languages）：
+
+- 简体中文
+- English
