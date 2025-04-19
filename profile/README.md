@@ -21,7 +21,7 @@ You can easily access the corresponding project repositories by clicking on the 
 | Language \ Server Type | 正式服(Live Server) | 公测服(Public Test Server) |
 |:----------------------:|:-------------------:|:-------------------------:|
 | 简体中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
-| 繁體中文 | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| 繁體中文 | [專案網址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | [專案網址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
 | English | [Repository](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [Repository](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
 ### Lesta Game Center（游戏启动器）本地化
