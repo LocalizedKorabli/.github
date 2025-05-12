@@ -31,4 +31,6 @@ You can easily access the corresponding project repositories by clicking on the 
 已支持语言（Supported Languages）：
 
 - 简体中文
+- Deutsch
 - English
+- Polski
