@@ -12,11 +12,19 @@ It is dedicated to providing free, accurate, and easy-to-read translations.
 
 ### 战舰世界本地化
 
-澪刻正面向多个语言、服务器类型制作本地化，您可以通过点击以下表格中的链接快速访问相应的项目仓库。
+澪刻正面向多个语言、服务器类型制作本地化。
 
 LocalizedKorabli is making localizations for multiple languages and server types.
 
-You can easily access the corresponding project repositories by clicking on the links in the table below.
+您可以点击以下链接下载、安装**澪刻·本地化安装器Next**，以安装多个语言的本地化。
+
+You can download & install **LK I18n Installer Next** to install localizations for all languages we support, via click the link below.
+
+[⬇️澪刻Next/LK Next](https://dl.localizedkorabli.org/lki/lk-next/lki_setup.exe)
+
+您还可以通过点击以下表格中的链接快速访问相应的项目仓库。
+
+You can easily access the corresponding project repositories as well by clicking on the links in the table below.
 
 | Language \ Server Type | 正式服(Live Server) | 公测服(Public Test Server) |
 |:----------------------:|:-------------------:|:-------------------------:|
