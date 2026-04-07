@@ -2,7 +2,7 @@
 
 ## 简介(Introduction)
 
-澪刻是由《战舰世界》Lesta服玩家发起的、基于社区的民间本地化团队，致力于向Lesta服中文玩家提供**免费**、**准确**、**易读**的汉化，以及由“汉化修改包（模组）”驱动的个性化游戏体验。
+澪刻是由Мир кораблей玩家发起的、基于社区的民间本地化团队，致力于向玩家提供**免费**、**准确**、**易读**的本地化，以及由“本地化修改包（模组）”驱动的个性化游戏体验。
 
 LocalizedKorabli is a community-based, unofficial localization team initiated by Мир Кораблей players.
 
@@ -10,7 +10,7 @@ It is dedicated to providing free, accurate, and easy-to-read translations.
 
 ## 项目传送门(Portal)
 
-### 战舰世界本地化
+### Мир кораблей本地化
 
 澪刻正面向多个语言、服务器类型制作本地化。
 
@@ -18,7 +18,7 @@ LocalizedKorabli is making localizations for multiple languages and server types
 
 您可以点击以下链接下载、安装**澪刻·本地化安装器Next**，以安装多个语言的本地化。
 
-You can download & install **LK I18n Installer Next** to install localizations for all languages we support, via click the link below.
+You can download & install **LK I18n Installer Next** to install localizations for all languages we support, via the link below.
 
 [⬇️澪刻Next/LK Next](https://dl.localizedkorabli.org/lki/lk-next/lki_setup.exe)
 
@@ -45,3 +45,4 @@ You can easily access the corresponding project repositories as well by clicking
 - English
 - Polski
 - 日本語
+- 한국인
